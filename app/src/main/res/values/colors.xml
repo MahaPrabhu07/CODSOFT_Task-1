@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000500</color>
+    <color name="white">#FFFFFF</color>
+    <color name="Green">#ED90F120</color>
+        <color name="colorPrimary">#6200EE</color>
+        <color name="colorPrimaryDark">#3700B3</color>
+        <color name="colorAccent">#03DAC5</color>
+        <color name="colorButtonEdit">#FFA500</color>
+        <color name="colorButtonComplete">#32CD32</color>
+        <color name="colorButtonDelete">#FF0000</color>
+    <color name="Grey">#7C7C7C</color>
+    <color name="lightpink">#F48282</color>
+
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskPulse</string>
+    <item name="main" type="id" />
+</resources>
